@@ -3,6 +3,7 @@ name = "nelson137-scratch"
 version = "0.1.0"
 edition = "2021"
 description = "Scratch project for testing things"
+documentation = "https://docs.rs/nelson137-scratch"
 license = "MIT OR Apache-2.0"
 keywords = ["test"]
 
